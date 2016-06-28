@@ -1,3 +1,5 @@
+# exercise for bootcamp program 
+
 list = []
 numberOfWords = 5
 
