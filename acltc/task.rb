@@ -23,6 +23,8 @@ class Task
   end
   
   def toggle_complete!
+    # another way to write what I have below
+    # @complete = !@complete
     if (@complete)
       @complete = false
     else 
