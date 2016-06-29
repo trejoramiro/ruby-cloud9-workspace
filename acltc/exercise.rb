@@ -9,6 +9,7 @@ numberOfWords.times do
 end
 
 list = list.sort
+# comment
 
 list.each do |word|
     index = list.index(word)
